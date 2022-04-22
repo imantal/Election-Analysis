@@ -1,4 +1,4 @@
-# Eelction results analysis
+# Eelction results analysis code
 
 # Add our dependencies.
 import csv
